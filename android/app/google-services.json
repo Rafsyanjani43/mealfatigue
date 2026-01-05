@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427798624482",
+    "project_id": "mealfatigue",
+    "storage_bucket": "mealfatigue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427798624482:android:8c0cb28621308e60e906bb",
+        "android_client_info": {
+          "package_name": "com.example.mealfatigue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhlp07OEV7-3YQcjzCPPZzB5L8Dbq80Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
