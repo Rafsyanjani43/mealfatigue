@@ -1,6 +1,6 @@
 # Meal Fatigue App
 
-![Downloads](https://img.shields.io/github/downloads/Rafsyanjani43/mealfatigue/total?style=for-the-badge&color=green)
+![Downloads](https://img.shields.io/github/downloads/Rafsyanjani43/mealfatigue/latest/total?style=for-the-badge&color=green)
 
 ### Deskripsi
 Sering merasa lelah memikirkan menu makanan setiap hari? Atau bingung mengatur uang belanja saat tanggal tua? Meal Fatigue adalah solusi all-in-one untuk mahasiswa dan siapa saja yang ingin hidup lebih sehat, hemat, dan praktis.
