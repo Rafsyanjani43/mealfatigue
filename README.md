@@ -76,3 +76,5 @@ https://www.figma.com/design/GcLaYqswrPEkOACGRwNUzP/Untitled?node-id=0-1&t=Z23PH
 | **Integrasi Database Fitur "DHarmony couple profie"** | Rafsyanjani Hidayat | High | Selesai | ✔ |
 | **Halaman Fitur "DHarmony weekend menu"** | Rafsyanjani Hidayat | Medium | Selesai | ✔ |
 | **Upload Assets"** | Synthia Indira Prastica | Medium | Selesai | ✔ |
+| **release aplikasi"** | Reza Mahendra Saputra | hard | Selesai | ✔ |
+| **implementasi statistik"** | Rafsyanjani Hidayat | Medium | Selesai | ✔ |
